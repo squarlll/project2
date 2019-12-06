@@ -105,6 +105,37 @@ header{
 		max-width:1170px!important;
 	}
 }
+
+.block-menu{
+	width: 100%;
+	background: #33BEFF;
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+	flex-direction: row;
+}
+.block-menu__item{
+	width: 25%;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+	border: 3px solid #1A4BE7;
+	transition: background .5s;
+}
+.block-menu__name{
+	font-family: "Open Sans - Bold",sans-serif;
+	font-size: 21px;
+	color: #fff;
+}
+.block-menu__item:hover{
+	text-decoration: none;
+	color: #fff;
+	background: #1A4BE7;
+}
+
 .logo{
 	margin-top: 56px;
 	position: relative;

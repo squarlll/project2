@@ -30,6 +30,22 @@
 		margin-right: 20%;
 	}
 }
+@media(max-width: 396px){
+	.property__text{
+		padding-bottom: 5px;
+	}
+	.property__title{
+		padding-bottom: 5px;
+	}
+}
+@media(max-width: 800px){
+	.block-menu{
+		flex-direction: column;
+	}
+	.block-menu__item{
+		width: 100%;
+	}
+}
 @media(max-width: 1199px){
 	.block-2__content__title-2{
 		margin-left: 37%;
@@ -140,11 +156,7 @@
 		height: 520px;
 	}
 }
-@media (max-width: 338px){
-	.property__text {
-	    padding-bottom: 20px;
-	}
-}
+
 /*Block-3*/
 @media (max-width: 1750px){
 	.block-3__content{
