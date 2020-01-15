@@ -589,4 +589,5 @@ header{
 	-ms-align-items: center;
 	align-items: center;
 	height: 100%;
+	text-shadow: 2px 2px 2px black;
 }
