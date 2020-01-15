@@ -581,4 +581,6 @@ header{
 	max-width: 1600px;
 	margin: auto;
 	text-align: justify;
+	padding-top: 40px;
+	padding-bottom: 20px;
 }
