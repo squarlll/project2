@@ -577,5 +577,8 @@ header{
 	font-weight: 400;
 	line-height: 18px;
 }
-
-
+.text-big{
+	max-width: 1640px;
+	margin: auto;
+	text-align: justify;
+}
