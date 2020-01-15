@@ -580,7 +580,13 @@ header{
 .text-big{
 	max-width: 1600px;
 	margin: auto;
-	text-align: justify;
-	padding-top: 40px;
-	padding-bottom: 20px;
+	color: #fff;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	height: 100%;
 }
