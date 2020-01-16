@@ -281,6 +281,10 @@ header{
 	margin: 20px 20px 0 20px;
 	width: 800px;
 }
+.item__big-big{
+	margin: 20px 20px 0 20px;
+	width: 100%;
+}
 .reviews__name{
 	margin-bottom: 20px;
 	color: #000;
